@@ -1,0 +1,33 @@
+.container {
+  text-align: center;
+  background-color: skyblue;
+}
+
+.container h1 {
+  color: orangered;
+  text-decoration: underline;
+}
+
+.container img {
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  width: 700px;
+}
+
+.form-container {
+  border: 2px solid black;
+  text-align: center;
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 10px;
+}
+
+.form-container input {
+  margin-bottom: 1rem;
+  width: 200px;
+  height: 2rem;
+  font-size: 1rem;
+}
+/*# sourceMappingURL=style.css.map */
